@@ -95,3 +95,5 @@ bun format # Auto-format the code
 1. Create a new branch (`feature/feature-name`).
 2. Commit changes (`git commit -m "feat: add new feature"`).
 3. Push to the branch and submit a PR.
+
+Edit readme
